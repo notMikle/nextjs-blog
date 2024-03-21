@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../my_blog_start"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "nextjs-blog"
+  }
+}
